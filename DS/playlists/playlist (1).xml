@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSMusicPlayer>
+    <configuration>
+        <artworlBlur>6px</artworlBlur>
+        <autoplay>false</autoplay>
+        <shareButton>true</shareButton>
+        <muteButton>true</muteButton>
+        <repeatButton>true</repeatButton>
+        <shuffleButton>true</shuffleButton>
+    </configuration>
+    <playlist>
+        <track>
+            <artist>Dua Lipa</artist>
+            <title>Be The One</title>
+            <url>./audio/music0.mp3</url>
+            <artwork>./audio/music0.jpg</artwork>
+            <apple>https://itunes.apple.com/gb/album/be-the-one-single/id1050412243</apple>
+            <amazon>https://www.amazon.co.uk/gp/product/B016W01A6O</amazon>
+            <download>true</download>
+        </track>
+        <track>
+            <artist>Pitbull ft. Chris Brown</artist>
+            <title>International Love</title>
+            <url>./audio/music5.mp3</url>
+            <artwork>./audio/music5.jpg</artwork>
+            <apple>https://itunes.apple.com/nz/album/international-love-feat.-chris/id439380081</apple>
+            <download>false</download>
+        </track>
+        <track>
+            <artist>Aluna George</artist>
+            <title>You Know You Like It</title>
+            <url>./audio/music2.mp3</url>
+            <artwork>./audio/music2.jpg</artwork>
+            <apple>https://itunes.apple.com/us/album/you-know-you-like-it-single/id941564124</apple>
+            <amazon>https://www.amazon.co.uk/You-Know-Like-AlunaGeorge-Snake/dp/B00XZK1858</amazon>
+            <download>false</download>
+        </track>
+        <track>
+            <artist>Arash</artist>
+            <title>Broken Angel</title>
+            <url>./audio/music1.mp3</url>
+            <artwork>./audio/music1.jpg</artwork>
+            <apple>https://itunes.apple.com/no/album/broken-angel-feat.-helena/id405999638</apple>
+            <download>true</download>
+        </track>
+        <track>
+            <artist>Les Elephants Bizarres</artist>
+            <title>Hello</title>
+            <url>./audio/music3.mp3</url>
+            <artwork>./audio/music3.jpg</artwork>
+            <apple>https://itunes.apple.com/us/album/hello!-says-the-devil/id403200306?i=403200310</apple>
+            <amazon>https://www.amazon.co.uk/Hello-Elephants-Bizarres/dp/B004BBQQD4</amazon>
+            <download>true</download>
+        </track>
+        <track>
+            <artist>Ryan Bandong</artist>
+            <title>Lean on Me</title>
+            <url>./audio/music4.mp3</url>
+            <artwork>./audio/music4.jpg</artwork>
+            <download>true</download>
+        </track>
+
+
+
+
+    </playlist>
+</DSMusicPlayer>
